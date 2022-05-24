@@ -46,13 +46,13 @@ Using Scatter Plots, global city weather data was analyzed to represent the rela
 ## Linear Regression
 Linear Regression was implemented to compare the relationships listed above between the Northern and Southern Hemispheres:
 
-![northern_hemi_max_temp](https://user-images.githubusercontent.com/102773052/170095989-708682b7-661c-4993-8714-15102ad41045.png) ![southern_hemi_max_temp](https://user-images.githubusercontent.com/102773052/170096016-55d0772d-fcff-4c59-89f7-1b28ee571faf.png)
+![northern_hemi_max_temp](https://user-images.githubusercontent.com/102773052/170095989-708682b7-661c-4993-8714-15102ad41045.png)![southern_hemi_max_temp](https://user-images.githubusercontent.com/102773052/170096016-55d0772d-fcff-4c59-89f7-1b28ee571faf.png)
 
-![northern_hemi_humid](https://user-images.githubusercontent.com/102773052/170096239-614131ea-5e27-46df-8550-186df995dc28.png)  ![southern_hemi_humid](https://user-images.githubusercontent.com/102773052/170096283-631b05e1-c0cd-4295-b4b3-f47c579a7928.png)
+![northern_hemi_humid](https://user-images.githubusercontent.com/102773052/170096239-614131ea-5e27-46df-8550-186df995dc28.png)![southern_hemi_humid](https://user-images.githubusercontent.com/102773052/170096283-631b05e1-c0cd-4295-b4b3-f47c579a7928.png)
 
-![northern_hemi_cloud](https://user-images.githubusercontent.com/102773052/170096337-b88c2b31-1ac1-4ec4-bedd-037ee3658133.png)  ![southern_hemi_cloud](https://user-images.githubusercontent.com/102773052/170096363-58b47c3e-bc63-49aa-b55f-264c50930b54.png)
+![northern_hemi_cloud](https://user-images.githubusercontent.com/102773052/170096337-b88c2b31-1ac1-4ec4-bedd-037ee3658133.png)![southern_hemi_cloud](https://user-images.githubusercontent.com/102773052/170096363-58b47c3e-bc63-49aa-b55f-264c50930b54.png)
 
-![northern_hemi_wind](https://user-images.githubusercontent.com/102773052/170096402-35cc347f-e214-45a7-9bfd-96e54d486669.png) ![southern_hemi_wind](https://user-images.githubusercontent.com/102773052/170096423-f71ac2c1-1d20-4425-9ed3-ece448d42c9b.png)
+![northern_hemi_wind](https://user-images.githubusercontent.com/102773052/170096402-35cc347f-e214-45a7-9bfd-96e54d486669.png)![southern_hemi_wind](https://user-images.githubusercontent.com/102773052/170096423-f71ac2c1-1d20-4425-9ed3-ece448d42c9b.png)
 
 ## Heat Map
 Heat Maps were helpful when assisting users visualize the intensity of temperature across the world:
